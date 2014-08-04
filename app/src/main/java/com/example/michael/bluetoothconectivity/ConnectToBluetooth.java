@@ -47,6 +47,7 @@ public class ConnectToBluetooth extends Activity {
         }
         else Toast.makeText(getApplicationContext(), "Already on", Toast.LENGTH_LONG).show();
     }
+    //Just a test
 
     public void list(View view){
         pairedDevices = BA.getBondedDevices();
