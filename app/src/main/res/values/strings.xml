@@ -3,10 +3,12 @@
 
     <string name="app_name">BluetoothConectivity</string>
     <string name="action_settings">Settings</string>
-    <string name="on">Turn On</string>
-    <string name="off">Turn Off</string>
-    <string name="List">List Devices</string>
-    <string name="Visible">Get Visible</string>
+    <string name="on">Turn Bluetooth On</string>
+    <string name="off">Turn Bluetooth Off</string>
+    <string name="connected">Disconnect From Emblem</string>
+    <string name="disconnected">Connect To Emblem</string>
+    <string name="List">List Paired Devices</string>
+    <string name="Visible">get visible devices</string>
 
 
 </resources>
